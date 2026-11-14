@@ -1,0 +1,6 @@
+{
+  "name": "Airflow Workbench",
+  "description": "Interactive studio for building, simulating, and mastering data pipelines with Apache Airflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
